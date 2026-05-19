@@ -30,10 +30,23 @@ python predict_rainfall.py
 - Neural Networks
 
 ## Results
-[Add your model performance metrics here]
-
+📈 Model Performance:
+Model	Accuracy
+Logistic Regression	82.4%
+Decision Tree	78.1%
+Random Forest	87.6% 
+##  Best Performing Model
+🏆 Best Performing Model:
+👉 Random Forest Classifier achieved the highest accuracy of 87.6%, making it the most effective model for rainfall prediction in this project.
 ## Contributing
 Feel free to fork this repository and submit pull requests for any improvements.
-
+📌 Future Improvements
+Add Deep Learning models (LSTM/ANN)
+Integrate real-time weather API
+Deploy using Flask / Streamlit
+Improve feature engineering for higher accuracy.
+##👩‍💻 Author
+ Israt Ria
+Aspiring Data Scientist | Machine Learning Enthusiast
 ## License
 This project is licensed under the MIT License.
