@@ -40,12 +40,12 @@ Random Forest	87.6%
 👉 Random Forest Classifier achieved the highest accuracy of 87.6%, making it the most effective model for rainfall prediction in this project.
 ## Contributing
 Feel free to fork this repository and submit pull requests for any improvements.
-📌 Future Improvements
+##  Future Improvements
 Add Deep Learning models (LSTM/ANN)
 Integrate real-time weather API
 Deploy using Flask / Streamlit
 Improve feature engineering for higher accuracy.
-##👩‍💻 Author
+## 👩‍💻 Author
  Israt Ria
 Aspiring Data Scientist | Machine Learning Enthusiast
 ## License
